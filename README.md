@@ -14,8 +14,8 @@ I train the CNN with MNIST Dataset and achieves an accuracy over 98% in its vali
 app/
 model/
 .gitignore
-requirements.txt
 README.md
+requirements.txt
 
 ## Installation
 
