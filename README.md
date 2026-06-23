@@ -56,4 +56,4 @@ Model can not predict correctly an "ugly" handwriting and when the digit is on t
 
 ## License
 
-This project is not licensed. All rights reserved.
+This project is licensed under the MIT License.
